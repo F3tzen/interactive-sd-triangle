@@ -3,7 +3,7 @@
 a small interactive application based on [Anderzz Style Dynamics Adaptation for VALORANT](https://youtu.be/rQ8PXanlAD0?si=FzYi0nV3KwFOY-eN)
 
 ## Agent Breakdowns
-The interactive SD triangle provides individual stat breakdowns for each character including the point distribution and short explanations.
+The interactive SD triangle provides individual stat breakdowns for each character including the point distribution and short explanations.  
 **Disclaimer:**  
 Because the numbers and explanations in the breakdowns are community sourced they might not be fully accurate with the originals by Anderzz.
 ## Installation
