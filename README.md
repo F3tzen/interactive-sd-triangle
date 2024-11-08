@@ -6,6 +6,7 @@ a small interactive application based on [Anderzz Style Dynamics Adaptation for 
 The interactive SD triangle provides individual stat breakdowns for each character including the point distribution and short explanations.  
 **Disclaimer:**  
 Because the numbers and explanations in the breakdowns are community sourced they might not be fully accurate with the originals by Anderzz.
+If you think values / explanations should be changed please create a new [issue](https://github.com/F3tzen/interactive-sd-triangle/issues).
 ## Installation
 Download the latest release [here](https://github.com/F3tzen/interactive-sd-triangle/tags).
 
