@@ -1,0 +1,525 @@
+Astra (2/2/6)
+
+	Gravity Well (0/1/2)
+	- Stall (C)
+	- Mult-Modality (M)
+	- Pullback (M)
+
+	Nova Pulse (1/0/2)
+	- Catalytic (A)
+	- Mult-Modality (M)
+	- Pullback (M)
+
+	Nebula (0/1/2)
+	- Global Range (C)
+	- Mult-Modality (M)
+	- Pullback (M)
+
+	Cosmic Divide (1/0/0)
+	- Map Manipulation
+
+
+Breach (6/3/1)
+
+	Aftershock (2/1/0)
+	- High Potency Pop Damage (A)
+	- Short Range (A)
+	- Stall (C)
+
+	Flashpoint (2/0/1)
+	- Catalytic (A)
+	- Spammability (A)
+	- High Volume (M)
+
+	Fault Line (1/2/0)
+	- Catalytic (A)
+	- Stall (C)
+	- Recharge (M)
+
+	Rolling Thunder (1/0/0)
+	- Catalytic
+
+
+Brimstone (6/2/2)
+
+	Stim Beacon (2/0/1)
+	- Explosivity (A)
+	- Self-Enabling (A)
+	- Rotional Acceleration
+
+	Incendiary (2/1/0)
+	- Reach (A)
+	- High Potency Damage (A)
+	-  Stall (C)
+
+	Sky Smoke (1/1/1)
+	- Explosivity (A)
+	- Stall (Smoke) (C)
+	- Intermediate Range (M)
+
+	Orbital Strike (1/0/0)
+	- High Potency Damage
+
+
+Chamber (5/5/0)
+
+	Trademark (0/3/0)
+	- Pre-placement (C)
+	- Passive Value (C)
+	- Stall (C)
+
+	Headhunter (3/0/0)
+	- Damage (A)
+	- Damage (A)
+	- Damage (A)
+
+	Rendezvous (2/1/0)
+	- Untradeability (A)
+	- Short Range (A)
+	- Pre-placement (C)
+
+	Tour De Force (0/1/0)
+	- Operator / Stall
+
+
+Clove (5/1/4)
+
+	Pick Me Up (2/0/1)
+	- Kill-Condition (A)
+	- Self-Enabling (A)
+	- Heal (M)
+
+	Meddle (2/1/0)
+	- Short Range (A)
+	- Self Enabling (A)
+	- Non-catalytic duel facilitation (C)
+
+	Ruse (1/0/2)
+	- Explosivity (A)
+	- Recharge (M)
+	- Intermediate Range / Postmortem (M)
+
+	Not Dead Yet (0/0/1)
+	- Resurrection
+
+
+Cypher (1/7/2)
+
+	Trapwire (0/2/1)
+	- Global Range / Passive Value (C)
+	- Pre-Placement (C)
+	- Replaceable (M)
+
+	Cyber Cage (1/2/0)
+	- Spammabillity (A)
+	- Pre-Placement (C)
+	- Global Range (C)
+
+	Spycam (0/2/1)
+	- Hard Info (C)
+	- Pre-Placement (C)
+	- Rechargeable (M)
+
+	Neural Theft (0/1/0)
+	- Hard Info
+
+
+Deadlock (1/5/4)
+
+	GravNET (0/2/1)
+	- Stall (C)
+	- Non-catalytic duel facilitation (C)
+	- Intermediate Range / Large AoE (M)
+
+	Sonic Sensor (0/1/2)
+	- Pre-placement (C)
+	- Soft Information (M)
+	- Semi-Passive Value (M)
+
+	Barrier Mesh (0/2/1)
+	- Stall (C)
+	- Passive Value (C)
+	- Permeability (M)
+
+	Annihilation (1/0/0)
+	- Kills / Anti-Utility
+
+
+Fade (3/3/4)
+
+	Prowler (1/0/2)
+	- Spammability (A)
+	- EBP / Soft Info (M)
+	- High Volume (M)
+
+	Seize (1/2/0)
+	- Short Range (A)
+	- Non-catalytic duel facilitation (C)
+	- Stall (C)
+
+	Haunt (0/1/2)
+	- Hard Info (C)
+	- Intermediate Range (M)
+	- Recharge (M)
+
+	Nightfall (1/0/0)
+	- High Potency
+
+
+Gekko (2/1/7)
+
+	Mosh Pit (2/0/1)
+	- High Potency Damage (A)
+	- Reach (A)
+	- Large AoE (M)
+
+	Wingman (0/0/3)
+	- Retreivable (M)
+	- Soft Information(M)
+	- Multi-Modality (M)
+
+	Dizzy (0/1/2)
+	- Stall (C)
+	- Retreivable (M)
+	- Soft Information (M)
+
+	Thrash (0/0/1)
+	- EBP / Retreivable
+
+
+Harbor (5/3/2)
+
+	Cascade (1/1/1)
+	- Short Range (A)
+	- Slow (C)
+	- Low Potency Scaling (M)
+
+	Cove (2/1/0)
+	- Plant / Entry Facilitation (A)
+	- Explosivity (Fast-Cast) (A)
+	- Smoke (C)
+
+	High Tide (1/1/1)
+	- Slice / Map-Manipulation (A)
+	- Stall (C)
+	- Recharge (M)
+
+	Reckoning (1/0/0)
+	- Catalytic (A)
+
+
+Iso (6/1/3)
+
+	Contigency (2/0/1)
+	- Inpenetrability (A)
+	- Self Enabling (A)
+	- Intermediate Range (M)
+
+	Undercut (1/1/1)
+	- Self-Enabling (A)
+	- Non-catalytic duel facilitation (C)
+	- Intermediate Range (M)
+
+	Double Tap (2/0/1)
+	- Untradeability (A)
+	- Self-Enabling (A)
+	- Shield (M)
+
+	Kill Contract (1/0/0)
+	- 1v1
+
+
+Jett (8/2/0)
+
+	Cloudburst (2/1/0)
+	- Short Range (A)
+	- Spammability (A)
+	- Stall (One-way) (C)
+
+	Updraft (2/1/0)
+	- Explosivity (A)
+	- Pseudo-untradeability (A)
+	- Verticality (C)
+
+	Tailwind (3/0/0)
+	- Kill Reset (A)
+	- Dive (A)
+	- Untradeability (A)
+
+	Blade Storm (1/0/0)
+	- Kill
+
+
+KAYO (6/3/1)
+
+	FRAG-ment (2/1/0)
+	- Reach (A)
+	- High Potency Damage (A)
+	- Stall (C)
+
+	FLASH-drive (2/1/0)
+	- High Potency Catalytic (A)
+	- Spammability (A)
+	- Stall (C)
+
+	ZERO-point (1/1/1)
+	- Anti-utility (A)
+	- Hard Info (C)
+	- Recharge (M)
+
+	NULL-cmd (1/0/0)
+	- Anti-Utility / Entry
+
+
+Killjoy (3/7/0)
+
+	Nanoswarm (1/2/0)
+	- Reach (A)
+	- Pre-placement (C)
+	- Stall (C)
+
+	Alarmbot (0/3/0)
+	- Non-catalytic duel facilitation (C)
+	- Pre-placement (C)
+	- Passive Value (C)
+
+	Turret (1/2/0)
+	- Damage (A)
+	- Pre-placement (C)
+	- Passive Value (C)
+
+	Lockdown (1/0/0)
+	- Map-Manipulation
+
+
+Neon (7/0/3)
+
+	Fast Lane (2/0/1)
+	- Slice / Manipulation (A)
+	- Explosivity (A)
+	- Intermediate Range (M)
+
+	Relay Bolt (3/0/0)
+	- Catalytic (A)
+	- Explosivity (A)
+	- Short Range (A)
+
+	High Gear (1/0/2)
+	- Dive (A)
+	- Fuel / High Volume (M)
+	- Rotational Acceleration (M)
+
+	Overdrive (1/0/0)
+	- Damage
+
+
+Omen (3/6/1)
+
+	Shrouded Step (1/2/0)
+	- Pseudo Dive (A)
+	- Access to Verticality (C)
+	- "Repositioning tool that facilitates entrenchment" (C)
+
+	Paranoia (2/1/0)
+	- Catalytic (A)
+	- Short Range / Self capitalization (A)
+	- Stall (C)
+
+	Dark Cover (0/2/1)
+	- Stall (Smoke) (C)
+	- One way (C)
+	- Recharge / Semi-Global Range (M) 
+
+	From the Shadows (0/1/0)
+	- Info Manipulation / Hard Info / Global Range
+
+
+Phoenix (6/2/2)
+
+	Blaze (1/1/1)
+	- Slice / Map-Manipulation (A)
+	- Stall (C)
+	- Heal (M)
+
+	Hot Hands (1/1/1)
+	- Reach (A)
+	- Stall (C)
+	- Heal (M)
+
+	Curveball (3/0/0)
+	- High Potency (A)
+	- Short Range (A)
+	- Self-Enabling
+
+	Run it Back (1/0/0)
+	- True Untradeability
+
+
+Raze (6/1/3)
+
+	Boom Bot (1/0/2)
+	- Catalytic Value (A)
+	- Intermediate Range (M)
+	- Soft Information (M)
+
+	Blast Pack (2/0/1)
+	- Dive / Untradeabillity (A)
+	- Explosivity (A)
+	- Multi-Modality (M)
+
+	Paint Shells (2/1/0)
+	- Damage (A)
+	- Kill Reset (A)
+	- Stall (C)
+
+	Showstopper (1/0/0)
+	- Damage
+
+
+Reyna (8/0/2)
+
+	Leer (3/0/0)
+	- Catalytic (A)
+	- Explosivity (A)
+	- Self-Enabling (A)
+
+	Devour (2/0/1)
+	- Kill Condition (A)
+	- Short Range (A)
+	- Heal (M)
+
+	Dismiss (3/0/0)
+	- Kill Condition (A)
+	- Short Range (A)
+	- Untradeability (A)
+
+	Empress (0/0/1)
+	- Healing
+
+
+Sage (1/5/4)
+
+	Barrier Orb (1/2/0)
+	- Plant Insulation (A)
+	- Passive Value (C)
+	- Stall (C)
+
+	Slow Orb (0/3/0)
+	- Stall (C)
+	- Non-catalytic duel facilitation (C)
+	- Duration (C)
+
+	Healing Orb (0/0/3)
+	- Heal (M)
+	- Recharge (M)
+	- Line of Sight (M)
+
+	Resurrection (0/0/1)
+	- Resurrection (M)
+
+
+Skye (2/2/6)
+
+	Regrowth (0/0/3)
+	- Healing (M)
+	- Fuel / Reuseability (M)
+	- Large AoE  (M)
+
+	Trailblazer (1/1/1)
+	- Short Range Vision (A)
+	- Hard Information (C)
+	- Intermediate Range (M)
+
+	Guiding Light (1/1/1)
+	- Catalytic (A)
+	- Stall (C)
+	- Boolean Info (M)
+
+	Seekers (0/0/1)
+	- EBP / Soft Info (M)
+
+
+Sova (1/6/3)
+
+	Owl Drone (0/2/1)
+	- Hard Info (Tag) (C)
+	- Truesight (C)
+	- Intermediate Range (M)
+
+	Shock Dart (1/1/1)
+	- Anti-utility (A)
+	- Global Range (C)
+	- Low potency pop damage (M)
+
+	Recon Bolt (0/2/1)
+	- Hard Info (C)
+	- Global Range (C)
+	- Recharge (M)
+
+	Hunter's Fury (0/1/0)
+	- Space Denial / Hard Info
+
+
+Viper (3/5/2)
+
+	Snake Bite (1/2/0)
+	- Reach
+	- Non-catalytic duel facilitation (C)
+	- Stall (C)
+
+	Poison Cloud (1/1/1)
+	- Reach (A)
+	- Non-catalytic duel facilitation (C)
+	- Recharge / Fuel (M)
+
+	Toxic Screen (1/1/1)
+	- Slice / Map-Manipulation(A)
+	- Non-catalytic duel facilitation (C)
+	- Recharge / Fuel (M)
+
+	Viper's Pit (0/1/0)
+	- Non-catalytic duel facilitation (C)
+
+
+Vyse (0/4/6)
+
+	Razorvine (0/1/2)
+	- Stall  / Pre-placement(C)
+	- Boolean Info (M)
+	- High Volume / Intermediate Range (M)
+
+	Shear (0/2/1)
+	- Stall (C)
+	- Passive Value (C)
+	- Boolean Info (M)
+
+	Arc Rose (0/0/3)
+	- Retreivable (M)
+	- Rechargeable (M)
+	- Boolean Info (M)
+
+	Steel Garden (0/1/0)
+	- Non-catalytic duel facilitation (C)
+
+
+Yoru (5/3/2)
+
+	Fakeout (1/1/1)
+	- Anti-utility (A)
+	- Pre-placement / Info Manipulation (C)
+	- Intermediate Range (M)
+
+	Blindside (2/1/0)
+	- High Potency Catalytic (A)
+	- Self-Enabling (A)
+	- Stall / Length of Duration (C)
+
+	Gatecrash (1/1/1)
+	- Dive / Untradeability (A)
+	- Info-Manipulation (C)
+	- Multi-Modality (M)
+
+	Dimensional Drift (1/0/0)
+	- Dive / EBP
+
+
